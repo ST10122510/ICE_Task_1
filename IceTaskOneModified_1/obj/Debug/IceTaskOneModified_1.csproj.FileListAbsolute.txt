@@ -1,0 +1,8 @@
+C:\Repos\Varsity College BCAD2\PROG6221\C# Projects\March 2023\ICE_Tasks\IceTaskOneModified_1\bin\Debug\IceTaskOneModified_1.exe.config
+C:\Repos\Varsity College BCAD2\PROG6221\C# Projects\March 2023\ICE_Tasks\IceTaskOneModified_1\bin\Debug\IceTaskOneModified_1.exe
+C:\Repos\Varsity College BCAD2\PROG6221\C# Projects\March 2023\ICE_Tasks\IceTaskOneModified_1\bin\Debug\IceTaskOneModified_1.pdb
+C:\Repos\Varsity College BCAD2\PROG6221\C# Projects\March 2023\ICE_Tasks\IceTaskOneModified_1\obj\Debug\IceTaskOneModified_1.csproj.AssemblyReference.cache
+C:\Repos\Varsity College BCAD2\PROG6221\C# Projects\March 2023\ICE_Tasks\IceTaskOneModified_1\obj\Debug\IceTaskOneModified_1.csproj.SuggestedBindingRedirects.cache
+C:\Repos\Varsity College BCAD2\PROG6221\C# Projects\March 2023\ICE_Tasks\IceTaskOneModified_1\obj\Debug\IceTaskOneModified_1.csproj.CoreCompileInputs.cache
+C:\Repos\Varsity College BCAD2\PROG6221\C# Projects\March 2023\ICE_Tasks\IceTaskOneModified_1\obj\Debug\IceTaskOneModified_1.exe
+C:\Repos\Varsity College BCAD2\PROG6221\C# Projects\March 2023\ICE_Tasks\IceTaskOneModified_1\obj\Debug\IceTaskOneModified_1.pdb
